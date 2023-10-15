@@ -5,3 +5,11 @@ The project aims at reducing the navigation on the Thapar-Webkiosk website (savi
 
 Python Libraries used are Beautiful Soup, Mechanical Soup, and others.
 To execute, download the .exe file and give the required permission to run on your machine.
+
+
+The Login Page-
+![Screenshot 2023-10-15 104431](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/eec59d2d-9598-4b06-828b-f1d9da069557)
+
+The Menu-
+![Screenshot 2023-10-15 104602](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/62847bc7-9252-4d30-8d55-f471cd500a99)
+
