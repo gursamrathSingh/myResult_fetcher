@@ -17,10 +17,10 @@ Extracting Cgpa-
 ![Screenshot 2023-10-15 105406](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/9f61e7bd-701a-4eec-9c61-c2bf8eb29e72)
 
 Exam Grades-
-![Screenshot 2023-10-15 105854](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/1c68c729-3bf3-4312-a030-47dfe419cf86)
+![Screenshot 2023-10-15 105854](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/48eddb95-e6d3-41a1-841a-5c36618b4ff2)
 
 Date Sheet-
-![Screenshot 2023-10-15 113217](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/367bc975-5b13-4756-94bd-6119084b5324)
+![Screenshot 2023-10-15 113217](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/80ab8769-cad0-4ae0-83fc-781da664b227)
 
 
 Thank You !
