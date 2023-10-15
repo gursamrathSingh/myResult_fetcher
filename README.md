@@ -13,3 +13,13 @@ The Login Page-
 The Menu-
 ![Screenshot 2023-10-15 104602](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/62847bc7-9252-4d30-8d55-f471cd500a99)
 
+Extracting Cgpa- 
+![Screenshot 2023-10-15 105406](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/9f61e7bd-701a-4eec-9c61-c2bf8eb29e72)
+
+Exam Grades-
+![Screenshot 2023-10-15 105854](https://github.com/gursamrathSingh/myResult_fetcher/assets/126102220/1c68c729-3bf3-4312-a030-47dfe419cf86)
+
+Date Sheet-
+
+
+
