@@ -149,8 +149,8 @@ while True:
     password = pwinput.pwinput()
 
     form = login_html.select("form")[0]
-    form.select("input")[2]["value"] = "102217202"
-    form.select("input")[4]["value"] = "singh123"
+    form.select("input")[2]["value"] = eno
+    form.select("input")[4]["value"] = password
 
     home_page = browser.submit(form, page.url)
 
