@@ -57,6 +57,7 @@ def fetch_grades():
     my_list = list(filter('Â'.__ne__, my_list))
     my_list = list(filter('2223EVESEM'.__ne__, my_list))
     my_list = list(filter('2223ODDSEM'.__ne__, my_list))
+    my_list = list(filter('2324ODDSEM'.__ne__, my_list))
     my_list = list(filter('Awarded'.__ne__, my_list))
 
     my_list1, temp = [], []
